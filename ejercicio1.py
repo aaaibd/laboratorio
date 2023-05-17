@@ -27,5 +27,8 @@ provincia1 = ("Biobío", "Arauco", "Concepción""\n")
 provincia2 = ("Osorno", "Llanquihue", "Chiloé","Palena""\n")
 print(type(provincia1))
 print(type(provincia2))
+diccionario["Provincia 1"] = provincia1
+diccionario["Provincia 2"] = provincia2
+
 #imprimir diccionario versión final
 print(diccionario)
